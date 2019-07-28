@@ -1,4 +1,4 @@
-# assignment-week-4
+Handwritten Digit Classification with keras
 
 MNIST Handwritten Digit Recognition with Keras:
 
